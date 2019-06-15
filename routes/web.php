@@ -33,7 +33,7 @@ Route::get('/asymm','Text\TextController@asymm');//非对称加密
 Route::get('/personal','Text\TextController@personal');//私钥非对称加密
 Route::get('/exercise','Text\TextController@exercise');//练习私钥非对称加密
 Route::post('/syntony','Text\TextController@syntony');//练习接收回调私钥非对称加密
-Route::get('/aipay','Text\TextController@aipay');//  支付宝
+Route::get('/alipay','Text\TextController@alipay');//  支付宝
 
 
 

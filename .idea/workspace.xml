@@ -54,8 +54,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/Http/Controllers/Text/TextController.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="319">
-              <caret line="364" column="32" selection-start-line="364" selection-start-column="26" selection-end-line="364" selection-end-column="32" />
+            <state relative-caret-position="495">
+              <caret line="372" column="21" lean-forward="true" selection-start-line="372" selection-start-column="21" selection-end-line="372" selection-end-column="21" />
               <folding>
                 <element signature="e#45#73#0#PHP" expanded="true" />
               </folding>
@@ -67,7 +67,7 @@
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="242">
-              <caret line="11" selection-start-line="11" selection-end-line="11" />
+              <caret line="11" column="5" lean-forward="true" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -311,19 +311,20 @@
       <workItem from="1560298375230" duration="15642000" />
       <workItem from="1560385442916" duration="16514000" />
       <workItem from="1560471819655" duration="12851000" />
-      <workItem from="1560560894314" duration="5653000" />
+      <workItem from="1560560894314" duration="6020000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="78250000" />
+    <option name="totallyTimeSpent" value="78617000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="878" extended-state="6" />
+    <frame x="-7" y="-7" width="1550" height="878" extended-state="7" />
+    <editor active="true" />
     <layout>
       <window_info id="Structure" order="0" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="1" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="2" visible="true" weight="0.27479893" />
+      <window_info active="true" content_ui="combo" id="Project" order="2" visible="true" weight="0.27479893" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
@@ -339,7 +340,7 @@
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info active="true" anchor="right" id="Remote Host" order="3" visible="true" weight="0.22050938" />
+      <window_info anchor="right" id="Remote Host" order="3" visible="true" weight="0.22050938" />
       <window_info anchor="right" id="Database" order="4" show_stripe_button="false" weight="0.21763085" />
     </layout>
   </component>
@@ -463,8 +464,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/Http/Controllers/Text/TextController.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="319">
-          <caret line="364" column="32" selection-start-line="364" selection-start-column="26" selection-end-line="364" selection-end-column="32" />
+        <state relative-caret-position="495">
+          <caret line="372" column="21" lean-forward="true" selection-start-line="372" selection-start-column="21" selection-end-line="372" selection-end-column="21" />
           <folding>
             <element signature="e#45#73#0#PHP" expanded="true" />
           </folding>
@@ -474,7 +475,7 @@
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="242">
-          <caret line="11" selection-start-line="11" selection-end-line="11" />
+          <caret line="11" column="5" lean-forward="true" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
         </state>
       </provider>
     </entry>

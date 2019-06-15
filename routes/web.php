@@ -27,4 +27,17 @@ Route::post('/filedo','Text\TextController@filedo');//access_token
 Route::get('/form_data','Text\TextController@form_data');//access_token
 Route::get('/urlencoded','Text\TextController@urlencoded');//access_token
 Route::get('/raw','Text\TextController@raw');//access_token
-Route::get('/jm','Text\TextController@jm');//access_token
+Route::get('/jm','Text\TextController@jm');//测试 加密
+Route::get('/encrypt','Text\TextController@encrypt');//对称加密
+Route::get('/asymm','Text\TextController@asymm');//非对称加密
+Route::get('/personal','Text\TextController@personal');//私钥非对称加密
+Route::get('/exercise','Text\TextController@exercise');//练习私钥非对称加密
+Route::post('/syntony','Text\TextController@syntony');//练习接收回调私钥非对称加密
+Route::get('/aipay','Text\TextController@aipay');//  支付宝
+
+
+
+
+
+
+Route::get('/ceshi','Text\TextController@ceshi');//$_SERVER

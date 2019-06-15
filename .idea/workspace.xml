@@ -4,6 +4,7 @@
     <list default="true" id="f2e305a7-023c-44aa-9eda-1114fd6cac65" name="默认" comment="">
       <change afterPath="D:/phpStudy/PHPTutorial/WWW/namespace/2.php" afterDir="false" />
       <change afterPath="D:/phpStudy/PHPTutorial/WWW/namespace/3.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/1810_api.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/1810_api.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/deployment.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/deployment.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
@@ -310,20 +311,19 @@
       <workItem from="1560298375230" duration="15642000" />
       <workItem from="1560385442916" duration="16514000" />
       <workItem from="1560471819655" duration="12851000" />
-      <workItem from="1560560894314" duration="5025000" />
+      <workItem from="1560560894314" duration="5653000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="77622000" />
+    <option name="totallyTimeSpent" value="78250000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="878" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Structure" order="0" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="1" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="2" visible="true" weight="0.27479893" />
+      <window_info content_ui="combo" id="Project" order="2" visible="true" weight="0.27479893" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
@@ -339,7 +339,7 @@
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Remote Host" order="3" weight="0.34919572" />
+      <window_info active="true" anchor="right" id="Remote Host" order="3" visible="true" weight="0.22050938" />
       <window_info anchor="right" id="Database" order="4" show_stripe_button="false" weight="0.21763085" />
     </layout>
   </component>

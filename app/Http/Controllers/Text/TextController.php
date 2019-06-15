@@ -359,7 +359,7 @@ class TextController extends Controller
             $str0.=$k.'='.$v.'&';
         }
         $str=rtrim($str0,"&");
-        dump($str);
+
 //        私钥签名
         $priv=openssl_get_privatekey("file://".storage_path("priva.pem"));
         openssl_sign($str,$info0,$priv,OPENSSL_ALGO_SHA256);
@@ -369,7 +369,7 @@ class TextController extends Controller
             $param_str.=$k.'='.urlencode($v).'&';
         }
         $param=rtrim($param_str,'&');
-        dd($param);
+//        dd($param);
         $url=$aipay.$param;
         //发送GET请求
         header("Location:".$url);

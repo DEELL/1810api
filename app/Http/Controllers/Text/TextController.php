@@ -329,7 +329,7 @@ class TextController extends Controller
         echo "签名验证".$result;
     }
 
-    public  function  aipay(){
+    public  function  alipay(){
 //        支付宝网关
         $aipay="https://openapi.alipaydev.com/gateway.do";
 //        沙箱APPID
